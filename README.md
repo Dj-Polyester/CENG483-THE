@@ -1,0 +1,1 @@
+Take home exams for the course CENG483 - Introduction to Computer Vision. Each the folder has task pdf explaining the task (given by the instructor) and an implementation done by me (task.py) and the report of the results as a pdf file. Unfortunately the dataset for the2 is not available. 
